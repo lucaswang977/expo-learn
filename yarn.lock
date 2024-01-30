@@ -5487,6 +5487,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"expo-learn@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "expo-learn@workspace:."
+  dependencies:
+    "@types/react": "npm:^18.2.21"
+    eslint: "npm:^8.21.0"
+    turbo: "npm:^1.4.2"
+    typescript: "npm:^5.2.2"
+  languageName: unknown
+  linkType: soft
+
 "expo-linear-gradient@npm:~12.3.0":
   version: 12.3.0
   resolution: "expo-linear-gradient@npm:12.3.0"
@@ -10429,17 +10440,6 @@ __metadata:
   checksum: 43f69dbc9f34fc8220bc51c6eea1c39715ab3cfdb115d6e3285f6c7d1a603c5c75655668a5bbc11e3c7e2c99d60321fb8d7ab6f38cda6a215fadd0d6d0b52130
   languageName: node
   linkType: hard
-
-"solito-blank@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "solito-blank@workspace:."
-  dependencies:
-    "@types/react": "npm:^18.2.21"
-    eslint: "npm:^8.21.0"
-    turbo: "npm:^1.4.2"
-    typescript: "npm:^5.2.2"
-  languageName: unknown
-  linkType: soft
 
 "solito@npm:4.0.1":
   version: 4.0.1

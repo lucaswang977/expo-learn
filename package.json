@@ -12,7 +12,6 @@
     "typescript": "^5.2.2"
   },
   "scripts": {
-    "dev": "turbo run dev",
     "native": "cd apps/expo && yarn start",
     "web": "cd apps/next && yarn next"
   },
