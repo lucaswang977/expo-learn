@@ -13,7 +13,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"msjsdiag.vscode-react-native"
+				"msjsdiag.vscode-react-native",
+				"expo.vscode-expo-tools"
 			]
 		}
 	}

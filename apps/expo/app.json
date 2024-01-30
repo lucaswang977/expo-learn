@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "solito-blank",
-    "slug": "solito-blank",
+    "name": "expo-learn",
+    "slug": "expo-learn",
     "version": "1.0.0",
-    "scheme": "solito-blank",
+    "scheme": "expo-learn",
     "platforms": [
       "ios",
       "android"
     ],
     "ios": {
-      "bundleIdentifier": "com.solito.blank"
+      "bundleIdentifier": "com.expolearn.blank"
     }
   }
 }
